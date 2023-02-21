@@ -7,3 +7,4 @@ too difficult
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 the no-ff way of git merge.
+这是在另一台电脑上进行得修改
