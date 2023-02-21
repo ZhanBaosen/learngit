@@ -6,3 +6,4 @@ too difficult
 添加到远程库了
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
+the no-ff way of git merge.
