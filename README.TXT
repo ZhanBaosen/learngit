@@ -5,3 +5,4 @@ Git tracks changes of files TEST.
 too difficult
 添加到远程库了
 Creating a new branch is quick.
+Creating a new branch is quick & simple.
